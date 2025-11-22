@@ -1,4 +1,4 @@
-### im kara and i cry !
+### hello!
 
 > **About me**:\
 > hi! i'm kara! i'm a 23 y/o information systems fresh grad. i occasionally dabble in python, and i'd like to get better at sql & html/css.\
