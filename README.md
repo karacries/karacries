@@ -1,5 +1,8 @@
 ### im kara and i cry !
 
+> [!NOTE] About me
+> hi! i'm kara! i'm a 23 y/o information systems fresh grad. i occasionally dabble in python, and i'd like to get stronger at sql & html/css.
+
 <!--
 **karacries/karacries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
