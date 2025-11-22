@@ -6,7 +6,7 @@
 > i am passionate about tech & eager to learn more about cyber security! i'd also like to work in health it one day!
 
 > **Contact:**\
-> socials: [[https://www.karacries.straw.page|strawpage]]\
+> socials: [strawpage](https://www.karacries.straw.page)\
 > email: please ask me!
 
 
