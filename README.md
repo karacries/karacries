@@ -1,7 +1,14 @@
 ### im kara and i cry !
 
-> [!NOTE] About me
+> **About me**:
 > hi! i'm kara! i'm a 23 y/o information systems fresh grad. i occasionally dabble in python, and i'd like to get stronger at sql & html/css.
+> i'm going to be working towards my isc2 cc cert and comptia certs soon! i am passionate about tech & eager to learn more about cyber security!
+> i'd like to work in health it one day!
+
+> **Contact:**
+> socials: [karacries.straw.page|strawpage]
+> email: please ask me!
+
 
 <!--
 **karacries/karacries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
