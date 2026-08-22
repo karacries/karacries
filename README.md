@@ -3,7 +3,7 @@
 > **About me**:\
 > hi! i'm kara! i'm a 23 y/o information systems fresh grad. i occasionally dabble in python, and i'd like to get better at sql & html/css/js.\
 > i'm going to be working towards getting my certs soon!\
-> i am passionate about tech & eager to learn more about cybersecurity! i'd also like to work in health it one day!
+> i am passionate about tech & eager to learn more about cybersecurity! i'd also like to work in grc one day!
 >
 > **Contact:**\
 > socials: [strawpage](https://karacries.straw.page)\
